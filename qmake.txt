@@ -1,1 +1,1 @@
-qmcke
+qmake
